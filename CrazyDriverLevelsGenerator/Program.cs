@@ -32,7 +32,7 @@ namespace CrazyDriverLevelsGenerator
                 currentTick = (int) random.NextDouble() * (currentTick+200-diffculty - currentTick) + currentTick+200-diffculty;
 
                 entry.Distance = currentTick.ToString();
-                entry.OriginX = ((int)(random.NextDouble() * (150 - 0))).ToString();
+                entry.OriginX = ((int)(random.NextDouble() * (270 - 0))).ToString();
                 entry.Object = random.NextDouble() > ((double) diffculty / 100) ?  "Ammunition" : "RedCar";
 
                 level.Data.Add(entry);
