@@ -1,0 +1,9 @@
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\bin\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.deps.json
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\bin\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.runtimeconfig.json
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\bin\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.runtimeconfig.dev.json
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\bin\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.dll
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\obj\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.csprojResolveAssemblyReference.cache
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\obj\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.AssemblyInfo.cs
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\bin\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.pdb
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\obj\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.dll
+c:\users\teralb\documents\visual studio 2017\Projects\CrazyDriverLevelsGenerator\CrazyDriverLevelsGenerator\obj\Debug\netcoreapp1.1\CrazyDriverLevelsGenerator.pdb
